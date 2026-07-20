@@ -1,0 +1,17 @@
+# Compiled binaries and executables
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+
+# Build directories and logs
+bin/
+build/
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
